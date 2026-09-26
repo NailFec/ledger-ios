@@ -1,0 +1,28 @@
+# Local Supabase credentials (copy from Secrets.example.plist)
+Ledger/Secrets.plist
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+DerivedData/
+build/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+SourcePackages/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDEs
+.idea/
+*.swp
+*~
